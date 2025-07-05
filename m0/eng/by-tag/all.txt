@@ -1,3 +1,4 @@
 Exponential and Logarithmic Functions
 Indices and Logarithms
+Inequalities and Linear Programming
 Polynomials
