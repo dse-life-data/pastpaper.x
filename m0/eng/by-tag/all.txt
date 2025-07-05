@@ -1,2 +1,3 @@
-Indices and Logarithms
 Exponential and Logarithmic Functions
+Indices and Logarithms
+Polynomials
