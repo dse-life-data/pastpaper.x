@@ -2,3 +2,5 @@
 process/
 build/
 test/
+.internal-ai-image/
+**/.internal-ai-image/
