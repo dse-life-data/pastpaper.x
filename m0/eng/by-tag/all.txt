@@ -3,3 +3,4 @@ Indices and Logarithms
 Inequalities and Linear Programming
 Percentages
 Polynomials
+Trigonometry
