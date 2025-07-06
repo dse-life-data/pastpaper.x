@@ -1,2 +1,6 @@
+Bits
+Hexdecimal
+Office
+PPT Slide
 Text Encoding
 Web Design
