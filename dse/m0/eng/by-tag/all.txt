@@ -1,36 +1,32 @@
-Change Subject
-Exponential and Logarithmic Functions
-Indices and Logarithms
-Inequalities and Linear Programming
-Percentages
-Polynomials
-Simplify Indices
-Trigonometry
-Estimation
-Formulas
-Identities, Equations and the Number System
-Functions and Graphs
-Rate, Ratio and Variation
-Arithmetic and Geometric Sequences
-Inequalities and Linear Programming
-Geometry of Rectilinear Figure
-Geometry of Circles
-Basic Trigonometry
 Applications of Trigonometry
-Mensuration
+Arithmetic and Geometric Sequences
+Basic Trigonometry
+Change Subject
 Coordinate Geometry
 Counting Principles and Probability
-Statistics
-Number System
+Estimation
+Exponential and Logarithmic Functions
+Factorize
+Formulas
 Functions and Graphs
-More about Polynomials
-More about Equations
-Sequences
-Mensuration
-Plane Geometry
+Geometry of Circles
+Geometry of Rectilinear Figure
+Identities, Equations and the Number System
+Indices and Logarithms
+Inequalities and Linear Programming
 Locus
-Coordinates Geometry
-Trigonometry
-Permutation and Combination
-More about Probability
 Measures of Dispersion
+Mensuration
+More about Equations
+More about Polynomials
+More about Probability
+Number System
+Percentages
+Permutation and Combination
+Plane Geometry
+Polynomials
+Rate, Ratio and Variation
+Sequences
+Simplify Indices
+Statistics
+Trigonometry
