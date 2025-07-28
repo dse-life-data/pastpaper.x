@@ -4,7 +4,6 @@ Arithmetic and Geometric Sequences
 Basic Trigonometry
 Change Subject
 Coordinate Geometry
-Counting Principles and Probability
 Estimation
 Exponential and Logarithmic Functions
 Factorize
@@ -16,11 +15,12 @@ Identities, Equations and the Number System
 Indices and Logarithms
 Inequalities and Linear Programming
 Locus
+Measure of Central Tendency
 Measures of Dispersion
 Mensuration
 More about Equations
 More about Polynomials
-More about Probability
+Probability
 Number System
 Percentages
 Permutation and Combination
@@ -32,4 +32,4 @@ Sequences
 Simplify Indices
 Statistics
 Trigonometry
-Word question
+Variation
