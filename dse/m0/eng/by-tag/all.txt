@@ -25,6 +25,7 @@ Percentages
 Permutation and Combination
 Plane Geometry
 Polynomials
+Properties of Circle
 Rate, Ratio and Variation
 Sequences
 Simplify Indices
