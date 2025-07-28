@@ -30,3 +30,4 @@ Sequences
 Simplify Indices
 Statistics
 Trigonometry
+Word question
