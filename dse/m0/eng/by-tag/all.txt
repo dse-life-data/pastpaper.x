@@ -8,6 +8,7 @@ Equation of Circle
 Equation of Straight Lines
 Estimation
 Exponential and Logarithmic Functions
+Factor Theorem and Remainder Theorem
 Factorize
 Formulas
 Functions and Graphs
