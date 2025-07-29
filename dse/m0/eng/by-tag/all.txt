@@ -4,6 +4,8 @@ Arithmetic and Geometric Sequences
 Basic Trigonometry
 Change Subject
 Coordinate Geometry
+Equation of Circle
+Equation of Straight Lines
 Estimation
 Exponential and Logarithmic Functions
 Factorize
@@ -20,13 +22,14 @@ Measures of Dispersion
 Mensuration
 More about Equations
 More about Polynomials
-Probability
 Number System
 Percentages
 Permutation and Combination
 Plane Geometry
 Polynomials
+Probability
 Properties of Circle
+Quadratic Equations
 Rate, Ratio and Variation
 Sequences
 Simplify Indices
