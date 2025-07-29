@@ -36,5 +36,6 @@ Rate, Ratio and Variation
 Sequences
 Simplify Indices
 Statistics
+Symmetry and Transformation
 Trigonometry
 Variation
